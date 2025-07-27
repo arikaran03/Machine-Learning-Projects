@@ -15,8 +15,6 @@ The dataset contains medical and behavioral information such as:
 - Fatigue levels
 - Wheezing and coughing patterns
 
-(You can update this section with a dataset link or description if available.)
-
 ## 🔍 Model
 
 The model uses **Random Forest**, an ensemble machine learning method:
